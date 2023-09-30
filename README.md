@@ -1,4 +1,4 @@
-<h2 align="center" style="margin-bottom:100px" width=100% >Hi there! Welcome my profile!</h2><br>
+<h2 align="center" style="margin-bottom:100px" width=100% >Hi there! Welcome to my profile!</h2><br>
 
 <p align="center">I ❤️ tech.</p>
 
