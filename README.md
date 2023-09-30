@@ -1,6 +1,6 @@
 <h2 align="center" style="margin-bottom:100px" width=100% >Hi there! Welcome my profile!</h2><br>
 
-<p align="center">I ❤️ tech. <br><br></p>&nbsp;
+<p align="center">I ❤️ tech.</p>&nbsp;
 
 ## Skills
 
