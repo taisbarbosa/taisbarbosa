@@ -1,6 +1,6 @@
 <h4 align="center" style="margin-bottom:100px" width=100% >Hi there! Welcome to my profile!</h4><br>
 
-<div style="margin=20px; border= solid, 10px, pink;"><p align="center">I ❤️ tech.</p></div>
+<div style="margin:20px border: solid, 10px, blue"><p align="center">I ❤️ tech.</p></div>
 
 ### Skills
 
