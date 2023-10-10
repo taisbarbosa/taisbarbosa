@@ -1,6 +1,6 @@
 <h4 align="center" style="margin-bottom:100px" width=100% >Hi there! Welcome to my profile!</h4><br>
 
-<p align="center">I ❤️ tech.</p>
+<div style="margin=20px; border= solid, 10px, pink;"><p align="center">I ❤️ tech.</p></div>
 
 ### Skills
 
@@ -11,7 +11,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="70px" max-width="70px" width="70px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="100px" align="right" alt="Computador iuriCode">
 
 ##### IDEs and Other Platforms:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
